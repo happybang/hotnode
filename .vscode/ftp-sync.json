@@ -1,0 +1,20 @@
+{
+    "remotePath": "./hotnode/",
+    "host": "47.92.33.14",
+    "username": "fengwan",
+    "password": "WA8bH477fo",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\node_modules",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
