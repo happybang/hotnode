@@ -5,4 +5,10 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
     res.render('index', { title: 'Express' });
 });
+// 定义 about 页面的路由
+router.get('/test', function(req, res) {
+    res.render('index', { title: 'Express' });
+});
+
+
 module.exports = router;
